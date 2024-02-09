@@ -20,8 +20,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/DanielaMichelle/News-Homepage-Main
+- Live Site URL: https://danielamichelle.github.io/News-Homepage-Main/
 
 ### Built with
 
